@@ -135,3 +135,7 @@ I practice Data Structures and Algorithms to improve my problem-solving skills a
 <p align="center">
   Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/repos/ankitkumarsahu?style=for-the-badge&color=7c3aed" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/stars/ankitkumarsahu?style=for-the-badge&color=2563eb" alt="Repository Stars" />
+</p>
