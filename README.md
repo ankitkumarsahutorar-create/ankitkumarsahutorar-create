@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/ankitkumarsahutorar-create">
-    <img src="https://komarev.com/ghpvc/?username=ankitkumarsahu&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ankitkumarsahutorar-create&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://github.com/ankitkumarsahu?tab=followers">
-    <img src="https://img.shields.io/github/followers/ankitkumarsahu?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ankitkumarsahutorar-create?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -46,10 +46,10 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitkumarsahu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ankit's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitkumarsahutorar-create&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ankit's GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsahutorar-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsahutorar-create&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
@@ -79,7 +79,7 @@
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 ### 🎧 Spotify Clone
 
