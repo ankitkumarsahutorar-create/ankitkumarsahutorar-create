@@ -50,11 +50,11 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitkumarsahu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ankit's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsahu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsahutorar-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarsahu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarsahutorar-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -62,11 +62,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsahu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsahutorar-create&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/ankitkumarsahu" alt="GitHub contribution calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/7c3aed/ankitkumarsahutorar-create" alt="GitHub contribution calendar" width="100%" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumarsahu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumarsahutorar-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ I practice Data Structures and Algorithms to improve my problem-solving skills a
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ankitkumarsahu">
+  <a href="https://github.com/ankitkumarsahutorar-create">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/">
@@ -136,6 +136,6 @@ I practice Data Structures and Algorithms to improve my problem-solving skills a
   Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/repos/ankitkumarsahu?style=for-the-badge&color=7c3aed" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/ankitkumarsahu?style=for-the-badge&color=2563eb" alt="Repository Stars" />
+  <img src="https://img.shields.io/github/repos/ankitkumarsahutorar-create?style=for-the-badge&color=7c3aed" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/stars/ankitkumarsahutorar-create?style=for-the-badge&color=2563eb" alt="Repository Stars" />
 </p>
